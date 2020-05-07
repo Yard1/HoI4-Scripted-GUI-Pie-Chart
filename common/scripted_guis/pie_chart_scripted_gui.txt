@@ -14,6 +14,8 @@ scripted_gui = {
 			always = no
 		}
 
+		dirty = pie_chart_dirty
+
 		properties = {
 			pie0 = { frame = pie_chart^0 }
 			pie1 = { frame = pie_chart^1 }
